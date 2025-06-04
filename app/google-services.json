@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979430423556",
+    "project_id": "komari-wallpaper-app",
+    "storage_bucket": "komari-wallpaper-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979430423556:android:1693480306d3152dfe4951",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvp300VA6BucMKZCJo-tbkNIl9rUd5Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
